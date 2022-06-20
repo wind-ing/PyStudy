@@ -9,6 +9,7 @@ from PIL import Image
 def mkdir(imname):
     """
     获取Gif的名字，根据它的名字创建文件夹保存拆分的帧
+
     :param imname: 需要拆分的Gif的名字
     :return:
     """
@@ -27,6 +28,7 @@ def mkdir(imname):
 def file_name_global(file_dir):
     """
     获取一个目录名，得到文件
+
     :param file_dir: 需要拆分的Gif所在的目录
     :return:
     """
