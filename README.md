@@ -14,6 +14,7 @@ Python相关学习
 - Little spiders：顾名思义，一些会爬的小虫子
 - Problem Logs：问题日志，记录项目过程中遇到的一些问题和解决方案，包括在软件、插件等使用过程中的一些笔记
 - Small Tools：一些用python写的小工具
+- Systematic learning：系统性学习记录
 - Toys：一些用python写的小玩具
 
 ## 声明
